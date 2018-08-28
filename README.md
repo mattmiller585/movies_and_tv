@@ -10,7 +10,10 @@ Movie and TV must watch list if you work with me
   * Happy Gilmore
   * Rat Race
   * The Godfather
+  * Star Trek II
 
 ## TV Shows
   * The Simpsons
   * Archer
+  * THe Office
+  * Star Trek TNG
