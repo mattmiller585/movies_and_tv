@@ -15,5 +15,5 @@ Movie and TV must watch list if you work with me
 ## TV Shows
   * The Simpsons
   * Archer
-  * THe Office
+  * The Office
   * Star Trek TNG
