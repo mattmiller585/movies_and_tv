@@ -11,6 +11,7 @@ Movie and TV must watch list if you work with me
   * Rat Race
   * The Godfather
   * Star Trek II
+  * Supertroopers 1 and 2
 
 ## TV Shows
   * The Simpsons
