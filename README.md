@@ -12,6 +12,7 @@ Movie and TV must watch list if you work with me
   * The Godfather
   * Star Trek II
   * Supertroopers 1 and 2
+  * Raiders of the Lost Ark
 
 ## TV Shows
   * The Simpsons
