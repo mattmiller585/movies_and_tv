@@ -13,6 +13,8 @@ Movie and TV must watch list if you work with me
   * Star Trek II
   * Supertroopers 1 and 2
   * Raiders of the Lost Ark
+  * Jurassic Park
+  * Waiting
 
 ## TV Shows
   * The Simpsons
