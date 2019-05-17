@@ -16,6 +16,7 @@ Movie and TV must watch list if you work with me
   * Jurassic Park
   * Waiting
   * Falling Down
+  * Doctor Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 
 ## TV Shows
   * The Simpsons
